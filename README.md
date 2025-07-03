@@ -23,7 +23,8 @@ This project allows users to predict fraudulent transactions individually or in 
 
 ## 🖥️ Demo
 
-> _Add a screenshot or GIF of your app here!_
+> ![image](https://github.com/user-attachments/assets/abcea25b-b1c4-40a6-8373-d9630955fd68)
+
 
 ---
 
